@@ -7,10 +7,10 @@
 
 import Foundation
 
-let api_key = "d2ec8378a039858a1052549faef553b6"
-
-let request_token = "459b2c1bc98dd8e21209c90c40baa761ad2ecd4d"
+let API_KEY = "d2ec8378a039858a1052549faef553b6"
 
 let URLBASE = "https://api.themoviedb.org/3/"
 
 let VALIDATE_WITH_LOGIN = "authentication/token/validate_with_login"
+
+let CREATE_NEW_TOKEN = "authentication/token/new"
