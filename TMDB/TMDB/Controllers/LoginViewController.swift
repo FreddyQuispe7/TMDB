@@ -14,7 +14,6 @@ class LoginViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         usuarioTextField.text = "fquispe7"
         contrasenaTextField.text = "Fq030483"
     }

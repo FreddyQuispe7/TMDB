@@ -9,7 +9,7 @@ import Foundation
 
 let api_key = "d2ec8378a039858a1052549faef553b6"
 
-let request_token = "45a70e547a671583b009137dfee0a8e24d2fd72c"
+let request_token = "459b2c1bc98dd8e21209c90c40baa761ad2ecd4d"
 
 let URLBASE = "https://api.themoviedb.org/3/"
 
