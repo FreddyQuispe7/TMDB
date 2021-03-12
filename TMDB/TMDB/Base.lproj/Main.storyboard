@@ -71,7 +71,7 @@
                                 </userDefinedRuntimeAttributes>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="V 1.0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kSc-rH-m2w">
-                                <rect key="frame" x="188" y="568" width="38.5" height="20.5"/>
+                                <rect key="frame" x="188" y="558" width="38.5" height="20.5"/>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -87,7 +87,7 @@
                             <constraint firstItem="RXR-LA-OZg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Yli-D1-wBX"/>
                             <constraint firstItem="FQf-IY-eu9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="fgo-tk-nC1"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="FQf-IY-eu9" secondAttribute="trailing" constant="50" id="mo3-Yx-fTr"/>
-                            <constraint firstItem="kSc-rH-m2w" firstAttribute="top" secondItem="FQf-IY-eu9" secondAttribute="bottom" constant="50" id="n5w-vW-gWs"/>
+                            <constraint firstItem="kSc-rH-m2w" firstAttribute="top" secondItem="FQf-IY-eu9" secondAttribute="bottom" constant="40" id="n5w-vW-gWs"/>
                         </constraints>
                     </view>
                     <connections>
